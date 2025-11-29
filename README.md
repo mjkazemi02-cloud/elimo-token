@@ -1,2 +1,1 @@
-# elimo-token
-Official ELIMO brand assets and token metadata
+Remove conflicting root file to allow tokens/ folder creation
